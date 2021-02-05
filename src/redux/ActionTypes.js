@@ -1,0 +1,1 @@
+export const GET_CALCULATIONS = "GET_CALCULATIONS";
